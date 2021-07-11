@@ -1,9 +1,8 @@
-<center>
-<img src="icon.svg" width=100/>
+<p align="center">
+  <img src="icon.svg" width=100/>
+</p>
 
-# Tokyo Night for [Insomnia](https://insomnia.rest/)
-
-</center>
+<h1 align="center">Tokyo Night for <a href="https://insomnia.rest/">Insomnia</a></h1>
 
 A clean, dark **Insomnia** theme that celebrates the lights of Downtown Tokyo at night.
 
