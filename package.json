@@ -1,0 +1,33 @@
+{
+  "name": "insomnia-plugin-theme-tokyo-night",
+  "version": "1.0.0",
+  "description": "Tokyo Night theme for Insomnia",
+  "homepage": "https://github.com/arturoeh/tokyo-night-insomnia",
+  "repository": "https://github.com/arturoeh/tokyo-night-insomnia.git",
+  "main": "index.js",
+  "private": "true",
+  "insomnia": {
+    "name": "tokyo-night-theme",
+    "display_name": "Tokyo Night Theme",
+    "description": "Tokyo Night theme for Insomnia",
+    "images": {
+      "icon": "icon.svg",
+      "cover": "screenshot.png"
+    },
+    "publisher": {
+      "name": "Arturo Enriquez",
+      "icon": "https://avatars.githubusercontent.com/u/40857565?v=4"
+    }
+  },
+  "keywords": [
+    "tokyonight",
+    "theme",
+    "insomnia",
+    "insomnia-plugin"
+  ],
+  "bugs": {
+    "url": "https://github.com/arturoeh/tokyo-night-insomnia/issues"
+  },
+  "author": "enkia",
+  "license": "MIT"
+}
