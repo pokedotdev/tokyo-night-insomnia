@@ -7,7 +7,7 @@
   "main": "index.js",
   "insomnia": {
     "name": "tokyo-night-theme",
-    "display_name": "Tokyo Night Theme",
+    "displayName": "Tokyo Night Theme",
     "description": "Tokyo Night theme for Insomnia",
     "images": {
       "icon": "icon.svg",
