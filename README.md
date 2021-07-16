@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.svg" width=100/>
+  <img src="./images/icon.svg" width=100/>
 </p>
 
 <h1 align="center">Tokyo Night for <a href="https://insomnia.rest/">Insomnia</a></h1>
@@ -8,7 +8,14 @@ A clean, dark **Insomnia** theme that celebrates the lights of Downtown Tokyo at
 
 Check the wonderful original theme by [@enkia](https://github.com/enkia/) for [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
 
-![Screenshot](./screenshot.png)
+## Screenshots
+
+Default
+![Tokyo Night Dark](./images/dark.png)
+Storm
+![Tokyo Night Storm](./images/storm.png)
+Light
+![Tokyo Night Light](./images/light.png)
 
 ## Installation
 
