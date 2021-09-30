@@ -4,6 +4,15 @@
 
 <h1 align="center">Tokyo Night for <a href="https://insomnia.rest/">Insomnia</a></h1>
 
+<p align="center">
+  <a href="https://github.com/arturoeh/tokyo-night-insomnia" target="_blank">
+    <img alt="github stars" src="https://img.shields.io/github/stars/arturoeh/tokyo-night-insomnia.svg?style=for-the-badge&labelColor=24283b&color=73daca" />
+  </a>
+  <a href="https://www.npmjs.com/package/insomnia-plugin-theme-tokyo-night" target="_blank">
+    <img alt="npm downloads" src="https://img.shields.io/npm/dm/insomnia-plugin-aura-theme.svg?style=for-the-badge&labelColor=24283b&color=73daca" />
+  </a>
+</p>
+
 A clean, dark **Insomnia** theme that celebrates the lights of Downtown Tokyo at night.
 
 Check the wonderful original theme by [@enkia](https://github.com/enkia/) for [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
