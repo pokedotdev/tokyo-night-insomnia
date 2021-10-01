@@ -9,7 +9,7 @@
     <img alt="github stars" src="https://img.shields.io/github/stars/arturoeh/tokyo-night-insomnia.svg?style=for-the-badge&labelColor=24283b&color=73daca" />
   </a>
   <a href="https://www.npmjs.com/package/insomnia-plugin-theme-tokyo-night" target="_blank">
-    <img alt="npm downloads" src="https://img.shields.io/npm/dm/insomnia-plugin-aura-theme.svg?style=for-the-badge&labelColor=24283b&color=73daca" />
+    <img alt="npm downloads" src="https://img.shields.io/npm/dm/insomnia-plugin-theme-tokyo-night.svg?style=for-the-badge&labelColor=24283b&color=73daca" />
   </a>
 </p>
 
