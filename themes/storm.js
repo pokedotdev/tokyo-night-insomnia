@@ -1,7 +1,10 @@
+const { theme } = require('./dark.js');
+
 module.exports = {
   name: 'tokyo-night-storm',
   displayName: 'Tokyo Night Storm',
   theme: {
+    rawCss: theme.rawCss,
     background: {
       default: '#24283b',
       success: '#00bad9',

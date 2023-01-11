@@ -1,7 +1,14 @@
+const rawCss = `
+  .tooltip a {
+    color: var(--color-font) !important;
+	}
+`;
+
 module.exports = {
   name: 'tokyo-night',
   displayName: 'Tokyo Night',
   theme: {
+    rawCss,
     background: {
       default: '#1a1b26',
       success: '#00bad9',
