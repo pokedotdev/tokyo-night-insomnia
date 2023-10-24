@@ -1,8 +1,9 @@
 const rawCss = `
-  .tooltip a {
-    color: var(--color-font) !important;
-	}
-`;
+  nav.flex-col > a.bg-gradient-to-br {
+    --color-font-surprise: var(--color-font) !important;
+    background: var(--hl-sm) !important;
+  }
+`
 
 module.exports = {
   name: 'tokyo-night',
