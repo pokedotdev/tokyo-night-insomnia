@@ -1,7 +1,17 @@
 const rawCss = `
-  nav.flex-col > a.bg-gradient-to-br {
+  div.\\[grid-area\\:Navbar\\] nav a[aria-current="page"] {
     --color-font-surprise: var(--color-font) !important;
     background: var(--hl-sm) !important;
+  }
+  aside.sidebar div[role="gridcell"] span.text-\\[0\\.65rem\\] {
+    border-color: var(--hl-md);
+    background-color: transparent;
+    --color-font-success: var(--color-success);
+    --color-font-notice: var(--color-notice);
+    --color-font-warning: var(--color-warning);
+    --color-font-danger: var(--color-danger);
+    --color-font-surprise: var(--color-surprise);
+    --color-font-info: var(--color-info);
   }
 `
 
