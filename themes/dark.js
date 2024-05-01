@@ -3,7 +3,7 @@ const rawCss = `
     --color-font-surprise: var(--color-font) !important;
     background: var(--hl-sm) !important;
   }
-  aside.sidebar div[role="gridcell"] span.text-\\[0\\.65rem\\] {
+  #sidebar div[role="gridcell"] span.text-\\[0\\.65rem\\] {
     border-color: var(--hl-md);
     background-color: transparent;
     --color-font-success: var(--color-success);
